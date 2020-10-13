@@ -1,0 +1,3 @@
+After submiting a form when click on submit button it is click but not navigating to other page
+For changing particular spec file you can change from testEnviroment/commonData.json
+You can start a test npm start

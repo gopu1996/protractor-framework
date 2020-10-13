@@ -1,0 +1,17 @@
+[
+	{
+		"TC01": {
+			"Firstname": "Gopal",
+			"Lastname": "pandey",
+			"Address": "Banglore, india ",
+			"Email": "abcd@gmail.com",
+			"Phone": 8794325312,
+			"Gender": "Male",
+			"Hobbies": "Cricket",
+			"Skills": "Java",
+			"Country": "India",
+			"Password": "Gopu@1234",
+			"Username": "Harry Potter"
+		}
+	}
+]

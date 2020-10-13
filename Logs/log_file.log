@@ -1,0 +1,48 @@
+[2020-10-13T07:45:15.311] [INFO] default - Number genrating 1 to  :  11
+[2020-10-13T07:45:15.315] [INFO] default - Click On  :  [object Object]
+[2020-10-13T07:45:15.436] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:15.440] [INFO] default - Test Method Execution Completed at : 10-13-2020 07:45:15
+[2020-10-13T07:45:15.888] [INFO] default - Test Method Execution Started at : 10-13-2020 07:45:15
+[2020-10-13T07:45:15.891] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:15.917] [INFO] default - Returning a list of elements :  By(css selector, [ng-model='monthbox'] option)
+[2020-10-13T07:45:15.921] [INFO] default - Returning a list of elements :  By(css selector, #daybox option)
+[2020-10-13T07:45:15.896] [INFO] default - Returning a list of elements :  By(css selector, #yearbox option)
+[2020-10-13T07:45:15.964] [INFO] default - Number genrating 1 to  :  101
+[2020-10-13T07:45:15.981] [INFO] default - Click On  :  [object Object]
+[2020-10-13T07:45:16.094] [INFO] default - Number genrating 1 to  :  13
+[2020-10-13T07:45:16.097] [INFO] default - Click On  :  [object Object]
+[2020-10-13T07:45:16.196] [INFO] default - Number genrating 1 to  :  32
+[2020-10-13T07:45:16.199] [INFO] default - Click On  :  [object Object]
+[2020-10-13T07:45:16.300] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:16.304] [INFO] default - Test Method Execution Completed at : 10-13-2020 07:45:16
+[2020-10-13T07:45:16.750] [INFO] default - Test Method Execution Started at : 10-13-2020 07:45:16
+[2020-10-13T07:45:16.753] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:16.757] [INFO] default - Returning a element :  by.model("Password")
+[2020-10-13T07:45:16.764] [INFO] default - Send a text in a field value is:  Gopu@1234
+[2020-10-13T07:45:16.947] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:16.950] [INFO] default - Test Method Execution Completed at : 10-13-2020 07:45:16
+[2020-10-13T07:45:17.359] [INFO] default - Test Method Execution Started at : 10-13-2020 07:45:17
+[2020-10-13T07:45:17.363] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:17.366] [INFO] default - Returning a element :  by.model("CPassword")
+[2020-10-13T07:45:17.369] [INFO] default - Send a text in a field value is:  Gopu@1234
+[2020-10-13T07:45:17.525] [INFO] default - Test Method Execution Completed at : 10-13-2020 07:45:17
+[2020-10-13T07:45:17.510] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:17.967] [INFO] default - Test Method Execution Started at : 10-13-2020 07:45:17
+[2020-10-13T07:45:17.971] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:17.996] [INFO] default - Returning a element :  By(css selector, input[type="file"])
+[2020-10-13T07:45:18.000] [INFO] default - Send a text in a field value is:  C:\WebDevelopment\demoprotractor\File\cris.jpg
+[2020-10-13T07:45:18.075] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:18.078] [INFO] default - Test Method Execution Completed at : 10-13-2020 07:45:18
+[2020-10-13T07:45:18.510] [INFO] default - Test Method Execution Started at : 10-13-2020 07:45:18
+[2020-10-13T07:45:18.514] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:18.518] [INFO] default - Returning a element :  By(css selector, *[id="submitbtn"])
+[2020-10-13T07:45:18.521] [INFO] default - Click On  :  [object Object]
+[2020-10-13T07:45:18.681] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:18.686] [INFO] default - Test Method Execution Completed at : 10-13-2020 07:45:18
+[2020-10-13T07:45:19.485] [INFO] default - Test Method Execution Started at : 10-13-2020 07:45:19
+[2020-10-13T07:45:19.489] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:25.530] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-13T07:45:25.533] [INFO] default - Test Method Execution Completed at : 10-13-2020 07:45:25
+[2020-10-13T07:45:25.560] [INFO] default - ****************************************************************************
+[2020-10-13T07:45:25.582] [INFO] default - Total Duration : 0 minutes 43 seconds
+[2020-10-13T07:45:25.586] [INFO] default - 10-13-2020 07:45:25 Test Execution Completed

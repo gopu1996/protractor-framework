@@ -1,0 +1,23 @@
+
+{
+    "App":
+    {
+    "Login":{
+        "QA_URL": "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+        "DEV_URL": "http://www.way2automation.com/angularjs-protractor/banking/#/login"
+       },
+    "Registration":{
+        "QA_URL": "http://demo.automationtesting.in/Register.html",
+        "DEV_URL": "http://demo.automationtesting.in/Register.html"
+        }
+    },
+    "EnvBrowser":{
+        "smoke":"../com.org.testscript/LoginPage.js",
+        "regression":"../com.org.testscript/LoginPage.js",
+        "spec":"../com.org.testscript/*.js",     
+        "env": "qa",
+        "browser": "chrome",
+        "framework": "jasmine"
+    }
+  
+}
